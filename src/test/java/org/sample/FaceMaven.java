@@ -17,6 +17,8 @@ public class FaceMaven {
 			
 			WebElement btnClick = driver.findElement(By.id("uploadfile"));
 			
+			System.out.println("Balakrishnan Bala Krish");
+			
 			btnClick.click();
 		}
 	}
